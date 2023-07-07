@@ -1,4 +1,4 @@
-const csvFilePath = './student.csv';
+const csvFilePath = './custom.csv';
 const X = 1;
 const Y = 20;
 
