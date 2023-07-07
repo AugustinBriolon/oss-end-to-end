@@ -1,0 +1,23 @@
+{
+  "name": "oss-end-to-end",
+  "version": "1.0.0",
+  "description": "Add random note to csv file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AugustinBriolon/oss-end-to-end.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AugustinBriolon/oss-end-to-end/issues"
+  },
+  "homepage": "https://github.com/AugustinBriolon/oss-end-to-end#readme",
+  "devDependencies": {
+    "eslint": "^8.44.0",
+    "jest": "^29.6.1"
+  }
+}
